@@ -19,7 +19,7 @@ drag  ui for pax
 
 ## 致开发者 
 #### 项目目录
-- colorui
+- colorui -----------------------_color ui库
 - common -----------------------_公共方法_
     - js
         - localStore.js --------_本地存储方法_
